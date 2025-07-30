@@ -35,16 +35,16 @@ I enjoy working across the stack to bring thoughtful ideas to life from full-sta
 
 ## 🚀 Key Projects
 
-### 🌴 [CaribbeanSpots](https://github.com/olivieryourusername/CaribbeanSpots)
+### 🌴 [CaribbeanSpots](https://github.com/CarloEst/CaribbeanSpots)
 A community-driven website to discover and share hidden Caribbean gems around NYC. Built with HTML/CSS/JS.
 
-### 🛡️ [Home Security Product Pitch](https://github.com/olivieryourusername/Home-Security-Solution-Project-Management-)
+### 🛡️ [Home Security Product Pitch](https://github.com/CarloEst/Home-Security-Solution-Project-Management-)
 PM hackathon-winning presentation proposing new Ring features to better support senior citizens.
 
-### 🧠 [RateMyProfessorAI](https://github.com/olivieryourusername/RateMyProfessorAI)
+### 🧠 [RateMyProfessorAI](https://github.com/CarloEst/RateMyProfessorAI)
 NLP-based analysis of professor reviews to extract sentiment and patterns using Python and Jupyter Notebook.
 
-### 💬 [Chat Support App](https://github.com/olivieryourusername/Chat-Support-App)
+### 💬 [Chat Support App](https://github.com/CarloEst/Chat-Support-App)
 A dynamic live chat interface built with JavaScript showcasing real-time UI interactions.
 
 *Stay tuned: My Fall AI Studio project will be pinned here once it launches!*
