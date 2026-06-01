@@ -1,8 +1,8 @@
-# Hi, I’m Olivier 👋
+# Hi, I'm Olivier 👋
 
-I’m a Haitian Computer Science student at Columbia University with a passion for building technology that makes people’s lives easier. My interests lie at the intersection of **AI, machine learning, software engineering**, and **product development**.
+I'm a Haitian CS student at Columbia University (rising senior) with a passion for building technology that makes people's lives easier. My interests lie at the intersection of **AI, machine learning, software engineering**, and **product development**.
 
-I enjoy working across the stack to bring thoughtful ideas to life from full-stack projects and ML pipelines to frontend experiences that actually feel good to use.
+I enjoy working across the stack — from ML pipelines and LLM integrations to full-stack applications that ship to real users.
 
 ---
 
@@ -19,51 +19,50 @@ I enjoy working across the stack to bring thoughtful ideas to life from full-sta
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **AI & ML:**  
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Key Projects
 
-### 🌴 [CaribbeanSpots](https://github.com/CarloEst/CaribbeanSpots)
-A community-driven website to discover and share hidden Caribbean gems around NYC. Built with HTML/CSS/JS.
+### 🤖 [Debrief](https://github.com/CarloEst/Debrief)
+AI-powered mock interview coach. Paste in a transcript and job description — Debrief extracts key moments, scores your performance against the role, and gives structured coaching feedback. Built with FastAPI, Anthropic Claude API, and React.
 
-### 🛡️ [Home Security Product Pitch](https://github.com/CarloEst/Home-Security-Solution-Project-Management-)
-PM hackathon-winning presentation proposing new Ring features to better support senior citizens.
+### 🌴 [CaribbeanSpots](https://github.com/CarloEst/CaribbeanSpots)
+A community-driven restaurant discovery app for Caribbean food in NYC. Full-stack with Flask, Python, SQL, and Bootstrap.
 
 ### 🧠 [RateMyProfessorAI](https://github.com/CarloEst/RateMyProfessorAI)
 NLP-based analysis of professor reviews to extract sentiment and patterns using Python and Jupyter Notebook.
 
-### 💬 [Chat Support App](https://github.com/CarloEst/Chat-Support-App)
-A dynamic live chat interface built with JavaScript showcasing real-time UI interactions.
-
-*Stay tuned: My Fall AI Studio project will be pinned here once it launches!*
+### 🛡️ [Home Security Product Pitch](https://github.com/CarloEst/Home-Security-Solution-Project-Management-)
+PM hackathon-winning presentation proposing new Ring features to better support senior citizens.
 
 ---
 
 ## 🌱 Outside Tech
 
-I care deeply about cultural representation and tech accessibility. I’m involved in organizations that celebrate my Caribbean heritage and create space for underrepresented communities in tech.
+I care deeply about cultural representation and tech accessibility. I teach Haitian dance (Konpa) at Columbia, organize events for the Haitian Student Association, and create space for underrepresented communities in tech.
 
-Outside of coding, you’ll probably find me curating my fragrance collection, playing soccer, dancing, or organizing events with Columbia’s Caribbean and Haitian student orgs.
+Outside of coding, you'll find me playing soccer, dancing, or getting into photography.
 
 ---
 
 ## 📬 Contact Me
 
 - 📧 **Email:** coestime@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/olivier-estime)  
-
+- 💼 [LinkedIn](https://linkedin.com/in/olivier-estime)
 
 ---
 
